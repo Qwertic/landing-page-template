@@ -33,7 +33,7 @@ export default function Component() {
             </h2>
             <p className="text-muted-foreground md:text-xl">
               {`Have a question or want to collaborate? Fill out the form and
-              we&apos;ll get back to you as soon as possible.`}
+              we'll get back to you as soon as possible.`}
             </p>
           </div>
           <form className="mt-8 grid gap-6">
